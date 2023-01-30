@@ -1,4 +1,3 @@
-import './App.css';
 import Compresser from './Compresser';
 
 function App() {
